@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="Driven" height="500" width="120" <img src="https://selecao.driven.com.br/images/logo_pink.png"/>
+  <img align="center" alt="Driven" height="120" width="500" <img src="https://selecao.driven.com.br/images/logo_pink.png"/>
 </div>
 
 # Driven-Full-Stack-Developer-Course
